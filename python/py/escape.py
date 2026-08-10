@@ -1,0 +1,11 @@
+
+print("Python\nJava\nData Science")
+print("Python\tJava\tData Science")
+print("Python\bJava\bData Science")
+print("Python\rJava\rData Science")
+print("Python\fJava\fData Science")
+print("Python\vJava\vData Science")
+print("Python\'Java\'Data Science")
+print("Python\"Java\"Data Science")
+print("Python\\Java\\Data Science")
+print("Python\0Java\0Data Science")
