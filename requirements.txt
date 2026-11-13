@@ -1,0 +1,12 @@
+# Accident Service Prediction System Dependencies
+Flask>=3.0.0
+werkzeug>=3.0.0
+jinja2>=3.1.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+scipy>=1.11.0
+rdflib>=7.0.0
+pytest>=8.0.0
+python-dateutil>=2.8.2
